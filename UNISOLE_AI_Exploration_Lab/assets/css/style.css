@@ -1,0 +1,15 @@
+/* Shared project styles */
+
+:root {
+  --primary: #0f4c5c;
+  --accent: #e36414;
+  --bg: #f7f4ea;
+  --text: #1f2933;
+}
+
+body {
+  margin: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
